@@ -9,8 +9,8 @@ https://ischool.illinois.edu/degrees-programs/courses/is452
 This file was created using Pycharm: https://www.jetbrains.com/pycharm/.
 
 # Goals
-This code is made to read a text file to find lines that begin scientific Identification Keys by finding the term "Key/s" and "KEY/S". There is explanation in the code as you read through explaning the authors goals.
-There is alternative code commented out also explained in "NOTES" by the author explaning intention or why it was not chosen.
+This code is made to read a text file to find lines that begin scientific Identification Keys by finding the term "Key/s" and "KEY/S". There is explanation in the .py code as you read through explaining the authors goals in "NOTES".
+There is also alternative code commented out also explained in "NOTES" the intention, or why it was not chosen.
 
 # Usage
 The program will call the files attached here, both bhl1.zip and bhlfivevolumes.txt
