@@ -1,6 +1,8 @@
 # IS452AFA19
 Final Programming Project
-This projct was completed as part of a final assignment in University of Illinois's iSchool Program IS 452: Introduction to Information Processing taugh by Elizabeth Wickes.
+This projct was completed as part of a final assignment in University of Illinois's iSchool Program IS 452: Foundations of Information Processing taught by Elizabeth Wickes.
+
+https://ischool.illinois.edu/degrees-programs/courses/is452
 
 # Software
 
