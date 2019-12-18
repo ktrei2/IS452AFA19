@@ -13,7 +13,7 @@ This code is made to read a text file to find lines that begin scientific Identi
 There is alternative code commented out also explained in "NOTES" by the author explaning intention or why it was not chosen.
 
 # Usage
-
+The program will call the files attached here, both bhl1.zip and bhlfivevolumes.txt
 ```python
 import re
 import ZipFile
