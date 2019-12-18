@@ -15,6 +15,9 @@ There is alternative code commented out also explained in "NOTES" by the author 
 # Usage
 The program will call the files attached here, both bhl1.zip and bhlfivevolumes.txt
 ```python
+include bhlfivevolumes.txt
+include bhl1.zip
+
 import re
 import ZipFile
 ```
