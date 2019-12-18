@@ -16,6 +16,7 @@ There is alternative code commented out also explained in "NOTES" by the author 
 
 ```python
 import re
+import ZipFile
 ```
 
 ## License
